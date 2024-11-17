@@ -1,0 +1,2 @@
+1er archivo de texto.
+Solo contiene 2 lineas.
