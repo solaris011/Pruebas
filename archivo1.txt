@@ -1,2 +1,5 @@
 1er archivo de texto.
 Solo contiene 2 lineas.
+Ahora tiene 3 lineas
+y una 4a.
+Tambien la quinta linea es anadida en el texto.
