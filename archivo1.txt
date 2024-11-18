@@ -1,6 +1,6 @@
-1er archivo de texto con algunos cambios.
-Solo contiene 2 lineas.
-Ahora tiene 3 lineas en la Segunda Version.
-Tambien la quinta linea es Ahora la 4a en el texto.
-Quinta linea del texto.
-Otras palabras que son anadidas en la sext linea.
+Primer archivo de texto.
+Ahora tiene 2 lineas al principio.
+y una tercera.
+Tambien la 4a linea es anadida en el texto.
+En esta solo hay cinco lineas.
+Mas la 6a.
