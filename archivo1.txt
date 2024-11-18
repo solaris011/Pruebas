@@ -1,5 +1,4 @@
-1er archivo de texto.
+1er archivo de texto con algunos cambios.
 Solo contiene 2 lineas.
-Ahora tiene 3 lineas
-y una 4a.
-Tambien la quinta linea es anadida en el texto.
+Ahora tiene 3 lineas en la Segunda Version.
+Tambien la quinta linea es Ahora la 4a en el texto.
